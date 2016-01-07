@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="haplayer/libs/log4j-1.2.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="haplayer/libs/jave-1.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="haplayer/libs/musique/alacdecoder-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="haplayer/libs/musique/commons-beanutils-1.7.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="haplayer/libs/musique/commons-beanutils-core-1.8.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="haplayer/libs/musique/commons-collections-3.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="haplayer/libs/musique/commons-configuration-1.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="haplayer/libs/musique/commons-digester-1.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="haplayer/libs/musique/commons-lang-2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="haplayer/libs/musique/commons-logging-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="haplayer/libs/musique/cuelib-1.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="haplayer/libs/musique/discogs-0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="haplayer/libs/musique/jaad-0.7.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="haplayer/libs/musique/jaudiotagger-2.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="haplayer/libs/musique/javaFlacEncoder-0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="haplayer/libs/musique/javalayer-1.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="haplayer/libs/musique/jflac-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="haplayer/libs/musique/jkeymaster-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="haplayer/libs/musique/jmac-1.74.jar"/>
+	<classpathentry exported="true" kind="lib" path="haplayer/libs/musique/jna-3.2.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="haplayer/libs/musique/jorbis-0.0.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="haplayer/libs/musique/junit-4.8.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="haplayer/libs/musique/last.fm-bindings-0.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="haplayer/libs/musique/musique-core-0.3-SNAPSHOT.jar"/>
+	<classpathentry exported="true" kind="lib" path="haplayer/libs/musique/tta-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="haplayer/libs/musique/vorbis-java-1.0.0-beta.jar"/>
+	<classpathentry exported="true" kind="lib" path="haplayer/libs/musique/wavpack-1.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
